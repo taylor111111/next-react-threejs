@@ -1,0 +1,37 @@
+.span-login {
+  display:block;
+  top:0;
+  left:0;
+  height: 24px;
+  width: 45px;
+  margin-bottom: 28px;
+
+  font-size: 17px;
+  font-weight: 600;
+  color: rgb(255, 255, 255);
+}
+
+.user-info {
+  color:rgb(255, 255, 255, 0.8);
+  padding:0;
+  border-top: 1px solid rgb(255, 255, 255 , 0.1);;
+}
+
+.go-sign-up {
+  padding-top: 35px;
+  border-top: 1px solid rgb(255, 255, 255 , 0.1);;
+  text-align: center;
+  color: rgb(140, 141, 142);
+  font-size: 13px;
+  font-family: Inter-Medium, Inter;
+  font-weight: 500;
+}
+
+.go-sign-up .span {
+  cursor: pointer;
+  color:#00A2E0;
+}
+
+.go-sign-up .span:hover {
+  color:rgb(0 185 255);
+}

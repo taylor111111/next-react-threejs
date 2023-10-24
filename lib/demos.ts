@@ -23,6 +23,11 @@ export const demos: { name: string; items: Item[] }[] = [
         slug: 'parallel-routes',
         description: 'Render multiple pages in the same layout',
       },
+      {
+        name: 'NFT Marketplace',
+        slug: 'nft-marketplace',
+        description: 'Render nft marketplace in the layout',
+      },
     ],
   },
   {

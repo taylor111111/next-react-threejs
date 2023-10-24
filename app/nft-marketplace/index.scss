@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+    margin: 0px;
+}
+
+#root {
+    height: 100%;
+}
+
+input, button {
+  border-width: 0;
+  padding: 0;
+}
+
+textarea:focus, input:focus {
+    outline: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, p {
+  padding: 0;
+  margin: 0;
+}
+
